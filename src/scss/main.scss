@@ -1,8 +1,5 @@
 @charset "utf-8";
 
-@import "base/reset";
-@import "base/settings";
-
 @import "helpers/variables";
 @import "helpers/mixin";
 @import "helpers/placeholder";
@@ -10,5 +7,3 @@
 @import "components/grid";
 @import "components/buttons";
 @import "components/form";
-
-@import "custom/style-guide";
